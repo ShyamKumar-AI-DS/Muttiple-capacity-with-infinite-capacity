@@ -60,4 +60,5 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output
-![out](OUT2.jpg)
+![OUT2](https://user-images.githubusercontent.com/93427182/204214730-7ae53dd2-904a-45b4-9583-8a8ea852fd8f.jpg)
+
